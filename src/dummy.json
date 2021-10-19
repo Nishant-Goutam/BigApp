@@ -1,0 +1,23 @@
+[
+    {
+    "id" :1,
+    "name" : "Travel" 
+    },
+    {
+    "id" :2,
+    "name" : "Rule Class" 
+    },
+    {
+    "id" :3,
+    "name" : "Travel Policy" 
+    },
+    {
+    "id" :4,
+    "name" : "Travel Discount" 
+    },
+    {
+    "id" :5,
+    "name" : "Contracts" 
+    }
+
+]
