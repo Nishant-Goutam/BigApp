@@ -12,6 +12,7 @@ class LoginForm extends React.Component{
     submitHandler = (event) => {
         event.preventDefault();
         console.log(this.state);
+          console.log(this.state);
         //  this.setState([])
         
     }
